@@ -5,6 +5,8 @@ Goal: To provide a solution for JBD smart BMS units to pass BMS info via serial 
 Collect Info about the JBD BMS's:<br>
 
 Other git repos with code:<br>
+[OverKillBMS_ESPHome](https://github.com/porchthecoder/OverKillBMS_ESPHome)(Exposes all the information from the BMS over MQTT)<br>
+
 [Smart-BMS-arduino-Reader](https://github.com/bres55/Smart-BMS-arduino-Reader)(read via serial to arduino)<br>
 [KBMS](https://github.com/komputing/KBMS)(Kotlin library for the smart BMS protocol)<br>
 [BMS_KrystianD_smart_bms](https://github.com/SoluTekSteam/37_BMS_KrystianD_smart_bms)(Python connector for Chinese Bluetooth Smart BMS)<br>
@@ -20,7 +22,14 @@ Other git repos with code:<br>
 [ESP32-BluetoothBMS2MQTT](https://github.com/BeaverUI/ESP32-BluetoothBMS2MQTT)(via Bluetooth to ESP and sends to an MQTT )<br>
 [Smart-BMS-Project](https://github.com/GrahamOB/Smart-BMS-Project)(gerber files)<br>
 [smart_bms_arduino](https://github.com/noahbjohnson/smart_bms_arduino)(XiaoXiang / JBD / Generic Smart BMS support for Arduino)<br>
+[Smart-BMS-Bluetooth-ESP32 ](https://github.com/deathcult456/Smart-BMS-Bluetooth-ESP32)(Smart-BMS-Bluetooth-ESP32 for smart BMS with e-ink)<br>
 
+
+[jbd-influx](https://github.com/mavi0/jbd-influx)(python)<br>
+[JBD BMS and Thornwave bluetooth data monitoring](https://github.com/tgalarneau/bms)(python)<br>
+[jdbLifePO4BMS ](https://github.com/ieb/jdbLifePO4BMS)(html)
+
+<br>[]()<br>
 
 Protocol info:<br>
 Reverse work: [Decoding the Smart BMS Protocol](https://blog.ja-ke.tech/2020/02/07/ltt-power-bms-chinese-protocol.html)<br>
