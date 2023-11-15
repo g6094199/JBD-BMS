@@ -27,9 +27,8 @@ Other git repos with code:<br>
 
 [jbd-influx](https://github.com/mavi0/jbd-influx)(python)<br>
 [JBD BMS and Thornwave bluetooth data monitoring](https://github.com/tgalarneau/bms)(python)<br>
-[jdbLifePO4BMS ](https://github.com/ieb/jdbLifePO4BMS)(html)
-
-<br>[]()<br>
+[jdbLifePO4BMS ](https://github.com/ieb/jdbLifePO4BMS)(html)<br>
+[esp32-bluetooth-hub](https://github.com/roccotsi2/esp32-bluetooth-hub/tree/main)<br>
 
 Protocol info:<br>
 Reverse work: [Decoding the Smart BMS Protocol](https://blog.ja-ke.tech/2020/02/07/ltt-power-bms-chinese-protocol.html)<br>
