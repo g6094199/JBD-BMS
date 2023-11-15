@@ -19,7 +19,7 @@ Other git repos with code:<br>
 [FHEM-BluetoothSmartBMS](https://github.com/sw-home/FHEM-BluetoothSmartBMS)<br>
 [ESP32-BluetoothBMS2MQTT](https://github.com/BeaverUI/ESP32-BluetoothBMS2MQTT)(via Bluetooth to ESP and sends to an MQTT )<br>
 [Smart-BMS-Project](https://github.com/GrahamOB/Smart-BMS-Project)(gerber files)<br>
-
+[smart_bms_arduino](https://github.com/noahbjohnson/smart_bms_arduino)(XiaoXiang / JBD / Generic Smart BMS support for Arduino)<br>
 
 
 Protocol info:<br>
