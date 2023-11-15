@@ -5,7 +5,7 @@ Goal: To provide a solution for JBD smart BMS units to pass BMS info via serial 
 Collect Info about the JBD BMS's:<br>
 
 Other git repos with code:<br>
-[Smart-BMS-arduino-Reader](https://github.com/bres55/Smart-BMS-arduino-Reader)<br>
+[Smart-BMS-arduino-Reader](https://github.com/bres55/Smart-BMS-arduino-Reader)(read via serial to arduino)<br>
 [Kotlin library for the smart BMS protocol](https://github.com/komputing/KBMS)<br>
 [BMS_KrystianD_smart_bms](https://github.com/SoluTekSteam/37_BMS_KrystianD_smart_bms)(Python connector for Chinese Bluetooth Smart BMS)<br>
 [Smart-BMS-Bluetooth-ESP32](https://github.com/iz3man/Smart-BMS-Bluetooth-ESP32)(read via bluetooth, send via Wifi and MQTT)<br>
@@ -13,7 +13,7 @@ Other git repos with code:<br>
 [BMSBatteryMonitor](https://github.com/tomcosk/BMSBatteryMonitor)(python)<br>
 [Smart-BMS-Project](https://github.com/GrahamOB/Smart-BMS-Project)
 [jbd_bms](https://github.com/RobotnikAutomation/jbd_bms)(python)
-[https://github.com/KrystianD/smart_bms](https://github.com/KrystianD/smart_bms)(python)<br>
+[smart_bms](https://github.com/KrystianD/smart_bms)(python)<br>
 [esp32-smartBMSdisplay](https://github.com/wholybee/esp32-smartBMSdisplay)(ESP32 version of JBD BMS display with Bluetooth connection)<br>
 [AndroidBMSApp](https://github.com/Jnnshschl/AndroidBMSApp)<br>
 [FHEM-BluetoothSmartBMS](https://github.com/sw-home/FHEM-BluetoothSmartBMS)<br>
