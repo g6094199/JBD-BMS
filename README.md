@@ -6,7 +6,7 @@ Collect Info about the JBD BMS's:<br>
 
 Other git repos with code:<br>
 [Smart-BMS-arduino-Reader](https://github.com/bres55/Smart-BMS-arduino-Reader)(read via serial to arduino)<br>
-[Kotlin library for the smart BMS protocol](https://github.com/komputing/KBMS)<br>
+[KBMS](https://github.com/komputing/KBMS)(Kotlin library for the smart BMS protocol)<br>
 [BMS_KrystianD_smart_bms](https://github.com/SoluTekSteam/37_BMS_KrystianD_smart_bms)(Python connector for Chinese Bluetooth Smart BMS)<br>
 [Smart-BMS-Bluetooth-ESP32](https://github.com/iz3man/Smart-BMS-Bluetooth-ESP32)(read via bluetooth, send via Wifi and MQTT)<br>
 [smart-BMS-NodeMCU](https://github.com/CRaccani/smart-BMS-NodeMCU)(read via serial, presented via wifi webserver)<br>
@@ -18,7 +18,7 @@ Other git repos with code:<br>
 [AndroidBMSApp](https://github.com/Jnnshschl/AndroidBMSApp)<br>
 [FHEM-BluetoothSmartBMS](https://github.com/sw-home/FHEM-BluetoothSmartBMS)<br>
 [ESP32-BluetoothBMS2MQTT](https://github.com/BeaverUI/ESP32-BluetoothBMS2MQTT)(via Bluetooth to ESP and sends to an MQTT )<br>
-
+[Smart-BMS-Project](https://github.com/GrahamOB/Smart-BMS-Project)(gerber files)<br>
 
 
 
